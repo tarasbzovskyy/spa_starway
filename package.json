@@ -13,7 +13,9 @@
   "author": "taras bzvoskyy",
   "license": "MIT",
   "dependencies": {
+    "jquery": "^3.2.1",
     "animejs": "^2.2.0",
+    "flexslider": "^2.6.4",
     "swiper": "^4.0.3"
   },
   "devDependencies": {
