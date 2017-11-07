@@ -4,7 +4,7 @@
   "description": "new era",
   "main": "main.js",
   "scripts": {
-    "test": "console.log('first revo');"
+    "start": "webpack --watch"
   },
   "keywords": [
     "revo",
